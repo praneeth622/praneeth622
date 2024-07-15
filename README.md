@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Praneeth Devarasetty</h1>
 <h3 align="center">A passionate Full Stack Developer </h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/007/559/603/non_2x/kid-happy-learning-codding-in-computer-web-coding-for-kids-illustration-coding-its-fun-can-be-used-for-web-banner-poster-social-media-promotion-etc-vector.jpg">
-- 👨‍💻 All of my projects are available at [https://github.com/praneeth622](https://github.com/praneeth622)
+
+- 👨‍💻 All of my projects are available at https://github.com/praneeth622 
 
 - 📫 How to reach me **praneethdevarasetty31@gmail.com**
 
