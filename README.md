@@ -20,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praneeth622&show_icons=true&locale=en" alt="praneeth622" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praneeth622&" alt="praneeth622" /></p>
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=praneeth622)
