@@ -1,14 +1,24 @@
 [![MasterHead](https://thumbs.dreamstime.com/b/vector-line-web-concept-programming-linear-banner-coding-118175196.jpg)](#)
 <h1 align="center">Hi 👋, I'm Praneeth Devarasetty</h1>
-<h3 align="center">A passionate Full Stack Developer </h3>
-<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/007/559/603/non_2x/kid-happy-learning-codding-in-computer-web-coding-for-kids-illustration-coding-its-fun-can-be-used-for-web-banner-poster-social-media-promotion-etc-vector.jpg">
+<h3 align="center">🚀 Full Stack Developer | Building Scalable Web Solutions</h3>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=praneeth622&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/praneeth622?label=Followers&style=social" alt="GitHub Badge"/>
+</div>
 
-- 👨‍💻 All of my projects are available at https://github.com/praneeth622 
+---
 
-- 📫 How to reach me **praneethdevarasetty31@gmail.com**
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 👨‍💻 About Me
+
+- 🔭 **Currently working on:** Building modern web applications with React, Next.js, and Node.js
+- 🌱 **Learning:** Advanced Cloud Architecture with AWS and DevOps practices
+- 💼 **Open to:** Full-time opportunities and freelance projects
+- 🎯 **Goal:** Contributing to open-source projects and building impactful solutions
+- 📫 **Reach me at:** praneethdevarasetty31@gmail.com
+- ⚡ **Fun fact:** I love solving complex problems and turning ideas into reality
+
 <a href="https://www.linkedin.com/in/praneeth-devarasetty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/praneeth-devarasetty-668321259/" height="30" width="40" /></a>
 </p>
 
@@ -21,4 +31,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praneeth622&" alt="praneeth622" /></p>
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=praneeth622)
